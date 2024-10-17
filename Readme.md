@@ -31,6 +31,8 @@ cd codespace
 pip install -r requirements.txt
 ```
 
+add Editor specific files in [lib folder](https://github.com/bhargavratnala/codespace/blob/main/assets/js/lib/) in assets/js/lib folder
+
 ## Contributing
 
 Guidelines for contributing to the project.
